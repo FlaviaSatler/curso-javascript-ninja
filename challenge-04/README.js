@@ -179,7 +179,7 @@ carro.obterMarcaModelo()
 
 // Adicione 2 pessoas no carro.
 carro.adicionaPessoas(2)
-
+ 
 // Adicione mais 4 pessoas no carro.
 carro.adicionaPessoas(4)
 
@@ -189,7 +189,7 @@ carro.adicionaPessoas(5)
 // Tire 4 pessoas do carro.
 carro.removePessoas();
 // Adicione 10 pessoas no carro.
-?
+carro.adicionaPessoas(10)
 
 // Quantas pessoas temos no carro?
-?
+10
